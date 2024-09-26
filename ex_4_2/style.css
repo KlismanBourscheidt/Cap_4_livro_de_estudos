@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:"width" 100;
+}
+
+img{
+    float: left;
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px rgba(0 , 0 , 0 , 0.2);
+}
+
+h1{
+    border-bottom-style: inset;
+}
+
+div{
+    display: flex;
+    padding-left: 20px;
+}
