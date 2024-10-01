@@ -1,0 +1,12 @@
+img{
+    float: left;
+    width: 200px;
+    height: 300px;
+}
+h1{
+    border-bottom: inset;
+}
+
+*{
+    margin: 10px;
+}
